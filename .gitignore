@@ -1,0 +1,10 @@
+.DS_Store
+drupal/robots.txt
+drupal/sites/default/files/
+drupal/sites/default/private-files/
+drupal/sites/default/privates-files/
+drupal/sites/default/settings.php
+drupal/sites/default/files_old/
+drupal/tmp
+tmp
+
